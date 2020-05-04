@@ -6,4 +6,6 @@ postsHeading: Recipes
 archiveButtonText: See all posts
 socialImage: ""
 ---
-Get your snack on with all these wonderful recipes from the Netlify team!
+Craving a treat? Check out all these great recipes from the Netlify team! \
+\
+If you've got a recipe to post, check out the team 1Password and sign in to jamsnack.com/admin to share your latest creation.
