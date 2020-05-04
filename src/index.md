@@ -2,7 +2,7 @@
 layout: home
 title: Jamsnack
 metaDesc: ""
-postsHeading: Latest posts
+postsHeading: Recipes
 archiveButtonText: See all posts
 socialImage: ""
 ---
