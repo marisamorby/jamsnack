@@ -10,7 +10,7 @@ tags:
 
 More of a liquid treat, but thought I'd share a fun little cocktail I made. Incidentally, I was clearing out some stuff in my fridge and ended up making a neat cocktail!
 
-![Image of the "Goblet Sunset" cocktail](/images/goblet-sunset.jpg "\\\"Goblet Sunset\\\" cocktail")
+![Image of the "Goblet Sunset" cocktail](/images/goblet-sunset.jpg "Goblet Sunset cocktail")
 
 Unfortunately, I don't know the *exact* specs of this, as I was kind of winging it, but below are my recommended amounts. Feel free to take liberties and experiment based on your own tastes and preferences!
 
