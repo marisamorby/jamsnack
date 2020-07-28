@@ -7,6 +7,8 @@ tags:
   - quick-dinner
   - indian
 ---
+![Paneer pizza on a naan](/images/img_0701.jpg "Paneer pizza on a naan")
+
 *from Bhavana Srinivas*
 
 **Ingredients:**
