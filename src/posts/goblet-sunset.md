@@ -8,7 +8,7 @@ tags:
 ---
 *from Kristy Marcinova*
 
-More of a liquid treat, but thought I'd share a fun little cocktail I made. Incidentally, I was clearing out some stuff in my fridge and ended up making a neat cocktail!
+More of a liquid treat, but thought I'd share a fun little cocktail I made. Incidentally, I was clearing out some stuff in my fridge and ended up making a neat concoction!
 
 ![Image of the "Goblet Sunset" cocktail](/images/goblet-sunset.jpg "Goblet Sunset cocktail")
 
