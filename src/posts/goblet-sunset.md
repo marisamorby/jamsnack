@@ -29,13 +29,13 @@ This is a relatively easy concoction to make! Therefore, you don't need to build
 
 Also, if you don't have the specific [Martini Fiero](https://www.martini.com/products/martini-fiero/) handy, I recommend trying it with a vermouth of your choice and combining it with a bitter like Aperol or Campari, half and half.
 
-For the gin, I used [Blood Monkey](http://bloodmonkeygin.com/). 
+For the gin, I used [Blood Monkey](http://bloodmonkeygin.com/). I literally just added a little on top to fill the glass, as it complimented the taste and I didn't want to overpower the rest of the ingredients with booziness.
 
 ## Directions
 
 1. Put a nice block of ice into your glassware of choice — either a goblet (pictured) or a tumbler (old fashioned glass).
 2. Add the vermouth into the glass.
 3. Pour the blood orange juice over a bar spoon, to create the layered effect.
-4. Top up with gin.
+4. Top up with gin, again using the bar spoon to maintain the layers.
 
 Enjoy! 🍹
